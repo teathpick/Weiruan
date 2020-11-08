@@ -1,0 +1,8 @@
+/*公用样式*/
+.cw{width: 1200px;margin-left: auto;margin-right: auto;}
+html .pcshow{display: inline-block;}
+html .pchide{display: none;}
+html .pcblock{display: block;}
+.pcw_show{display: inline-block;}
+#nav .main_list{width: 90%;}
+.container{width: 1400px;margin: 0 auto;}
